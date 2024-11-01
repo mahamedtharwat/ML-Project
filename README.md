@@ -1,4 +1,4 @@
-# Machine Learning Model 
+# Machine Learning Model 📈
 ## 1. K-Nearest Neighbors (KNN) :
  * KNN is a non-parametric algorithm used for classification and regression.
  * It assigns the class based on the majority of its k nearest neighbors.
