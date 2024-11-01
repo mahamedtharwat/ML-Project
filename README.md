@@ -8,7 +8,8 @@
 ## 2. Random Forest : 
  * Random Forest is an ensemble learning method that operates by constructing multiple decision trees during training and outputting the mode of the classes.
  * It is versatile and less prone to overfitting.
-## ![image](https://github.com/user-attachments/assets/fad12b6b-0d76-46ad-9170-2a4b8a73afe3)
+## ![image](https://github.com/user-attachments/assets/39935027-e33e-45fc-89fc-c025485688b2)
+
 
 
 
