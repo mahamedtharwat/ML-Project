@@ -1,5 +1,5 @@
 # Machine Learning Model 📈
-## I analyzed data for people suffering from heart disease and used some models, including KNN and Random Forest, to calculate accuracy and choose the highest performing model.
+## 💻 I analyzed data for people suffering from heart disease and used some models, including KNN and Random Forest, to calculate accuracy and choose the highest performing model.
 
 ## 1. K-Nearest Neighbors (KNN) :
  * KNN is a non-parametric algorithm used for classification and regression.
